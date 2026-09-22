@@ -1,8 +1,7 @@
-﻿class Bancaria
+﻿class ContaBancaria
 {
-    string indicador;
-    string titular;
-    float saldo;
-    string senha;
-
+    public string titular;
+    public int idConta;
+    public float saldo;
+    public int senha;
 }
