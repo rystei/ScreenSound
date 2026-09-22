@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="exercicios/exercicios.csproj" Id="e7036447-06e4-4c69-a9b1-29b3a504621c" />
   <Project Path="ScreenSound/ScreenSound.csproj" />
 </Solution>
