@@ -1,7 +1,12 @@
-﻿Conta conta = new Conta();
-conta.titular = "Rystei";
-conta.id = 1;
-conta.saldo = 10000050;
-conta.senha = 1234;
+﻿Carro carro = new Carro();
 
-conta.ExibirConta();
+carro.fabricante = "Tesla";
+carro.modelo = "G1";
+carro.ano = 2026;
+carro.quantidadePortas = 2;
+carro.velocidade = 100;
+
+carro.ExibirInformacoes();
+carro.acelerar();
+carro.frear();
+carro.buzinar();
